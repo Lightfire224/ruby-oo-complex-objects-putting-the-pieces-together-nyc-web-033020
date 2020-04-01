@@ -50,5 +50,10 @@ class Shoe
   
   def condition=(status)
     @condition = status
+  end
+  
+  def condition 
+    @condition
+  end
     
 end
