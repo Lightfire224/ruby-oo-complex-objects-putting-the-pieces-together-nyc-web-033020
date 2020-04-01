@@ -12,7 +12,7 @@ class Shoe
     @color = yess
   end
   
-  # def color
-  #   @color
-  # end
+  def color
+    @color
+  end
 end
