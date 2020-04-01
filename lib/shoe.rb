@@ -8,8 +8,8 @@ class Shoe
     @brand 
   end
   
-  def color=(next_color)
-    @color = next_color
+  def color=(yess)
+    @color = yess
   end
 
 end
